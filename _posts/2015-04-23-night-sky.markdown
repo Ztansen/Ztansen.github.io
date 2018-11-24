@@ -1,7 +1,7 @@
 ---
-title:  "Absense of light"
+title:  "光的存在."
 subtitle: "Only lights from space"
-author: "Wferr"
+author: "ZJT"
 avatar: "img/authors/wferr.png"
 image: "img/d.jpg"
 date:   2015-04-23 12:12:12

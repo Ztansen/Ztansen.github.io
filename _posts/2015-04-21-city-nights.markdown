@@ -1,7 +1,7 @@
 ---
 title:  "无人的街."
 subtitle: "A Beautiful shot during the night."
-author: "Wferr"
+author: "ZJT"
 avatar: "img/authors/wferr.png"
 image: "img/b.jpg"
 date:   2018-11-24 12:12:12

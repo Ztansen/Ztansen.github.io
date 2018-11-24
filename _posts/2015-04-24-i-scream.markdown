@@ -1,7 +1,7 @@
 ---
-title:  "音乐节"
+title:  "音乐节."
 subtitle: "But do you scream?"
-author: "Wferr"
+author: "ZJT"
 avatar: "img/authors/wferr.png"
 image: "img/e.jpg"
 date:   2018-11-24 12:12:12
